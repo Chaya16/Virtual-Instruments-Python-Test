@@ -1,0 +1,110 @@
+[
+
+  {
+
+    "project": "app1",
+
+    "committer": "john",
+
+    "loc": {
+
+      "added": 200,
+
+      "deleted": 30
+
+    },
+
+    "date": "2018-01-11"
+
+  },
+
+  {
+
+    "project": "app1",
+
+    "committer": "jack",
+
+    "loc": {
+
+      "added": 25,
+
+      "deleted": 50
+
+    },
+
+    "date": "2018-01-12"
+
+  },
+
+  {
+
+    "project": "app3",
+
+    "committer": "john",
+
+    "loc": {
+
+      "added": 60,
+
+      "deleted": 15
+
+    },
+
+    "date": "2018-01-11"
+
+  },
+
+  {
+
+    "project": "app2",
+
+    "committer": "mary",
+
+    "loc": {
+
+      "added": 140,
+
+      "deleted": 20
+
+    },
+
+    "date": "2018-01-12"
+
+  },
+
+  {
+
+    "project": "app2",
+
+    "committer": "john",
+
+    "loc": {
+
+      "added": 30,
+
+      "deleted": 0
+
+    },
+
+    "date": "2018-01-12"
+
+  },
+
+  {
+
+    "project": "app1",
+
+    "committer": "john",
+
+    "loc": {
+
+      "added": 50,
+
+      "deleted": 10
+
+    },
+
+    "date": "2018-01-13"
+
+  }
+]
